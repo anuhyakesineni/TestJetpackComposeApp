@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestJetpackComposeApp</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="hologram_notes">There is only one way to verify the hologram and the authenticity of Panini Authentic memorabilia and that’s right here. After entering the unique code on the hologram a photo and detailed description of the product will appear.\n\nPlease note that the product photo that appears is part of the overall edition.  Your Panini Authentic autographed item may vary slightly from the image shown.\n\nEnter only the numbers on the hologram without the PA into the search bar to authenticate the item. \n\n <b>Please note “Public” holograms are not searchable in the database.  Authentication for “Public” holograms will be provided by the corresponding COA with the autographed item.</b>  </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
