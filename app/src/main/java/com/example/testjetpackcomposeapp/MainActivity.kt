@@ -21,6 +21,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
+import androidx.constraintlayout.widget.ConstraintLayout
 
 
 class MainActivity : ComponentActivity(){
@@ -48,6 +49,7 @@ class MainActivity : ComponentActivity(){
 @Composable
 fun getView(s:String){
     val c = LocalContext.current
+
     Row() {
         Image(
             painter = painterResource(id = R.drawable.ic_launcher_foreground)
